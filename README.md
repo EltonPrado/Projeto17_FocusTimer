@@ -45,6 +45,8 @@ O intuito do projeto foi colocar em prática os conhecimentos acerca de:
   - Manipulação de eventos e callbacks
   - ES6 modules
   - Refatoração e Clean Code
+  - padrão factory
+  - injeção de dependências
 
 <br>
 
