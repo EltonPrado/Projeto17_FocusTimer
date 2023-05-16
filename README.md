@@ -28,7 +28,7 @@ informações básicas que o usuário deve seguir para usar o FocusTimer:
 
 Quer conferir o FocusTimer ? 
 
-[Visite o projeto online](https://eltonprado.github.io/Projeto13_FocusTimer/)
+[Visite o projeto online](https://eltonprado.github.io/Projeto17_FocusTimer/)
 
 <br>
 
